@@ -15,7 +15,7 @@ I have always been interested in intellectual work, solving interesting problems
 ### More About Me:
 
 - 🔭 &nbsp; I’m currently open to remote work
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bogdan-ho?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/bogdanho)
 - 📝 &nbsp; Checkout my [CV](https://cv.hexlet.io/resumes/1380)
 
