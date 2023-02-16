@@ -9,7 +9,7 @@ I have always been interested in intellectual work, solving interesting problems
 ### Contact me
 📧 Email: [homoretsky@gmail.com](mailto:homoretsky@gmail.com)
 💬 Telegram: [@bogdanho](https://t.me/bogdanho)
-<!-- <br>📑 LinkedIn: [Bogdan Homoretsky](https://www.linkedin.com/in/bogdanhomoretsky/) -->
+<br>📑 LinkedIn: [Bogdan Homoretsky](https://www.linkedin.com/in/bogdan-homoretsky/)
 
 
 ### More About Me:
@@ -17,7 +17,7 @@ I have always been interested in intellectual work, solving interesting problems
 - 🔭 &nbsp; I’m currently open to remote work
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bogdan-ho?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/bogdanho)
-- 📝 &nbsp; Checkout my [CV](https://cv.hexlet.io/resumes/1380)
+- 📝 &nbsp; Checkout my [CV](https://hh.ru/resume/c21a960bff0ba438cd0039ed1f724859334364)
 
 <br>
 
