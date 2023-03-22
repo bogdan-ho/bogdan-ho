@@ -8,8 +8,7 @@ I have always been interested in intellectual work, solving interesting problems
   
 ### Contact me
 💬 Telegram: [@bogdanho](https://t.me/bogdanho)
-📧 Email: [homoretsky@gmail.com](mailto:homoretsky@gmail.com)
-📑 LinkedIn: [Bogdan Homoretsky](https://www.linkedin.com/in/bogdan-homoretsky/)
+<br>📑 LinkedIn: [Bogdan Homoretsky](https://www.linkedin.com/in/bogdan-homoretsky/)
 
 
 ### More About Me:
@@ -17,7 +16,6 @@ I have always been interested in intellectual work, solving interesting problems
 - 🔭 &nbsp; I’m currently open to remote work
 - 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/bogdanho)
 - 📝 &nbsp; Checkout my [CV](https://hh.ru/resume/5e8a5ceeff0bcc77d60039ed1f307a7154466b)
-<!-- - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bogdan-ho?tab=repositories) -->
 
 <br>
 
@@ -39,8 +37,9 @@ I have always been interested in intellectual work, solving interesting problems
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="git" width="40" height="40"/></a>
 <br>
-<!-- 
 
+<!-- 
 ### Github Stats
 ![Metrics](/github-metrics.svg)
-<br> -->
+<br> 
+ -->
