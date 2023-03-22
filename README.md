@@ -7,28 +7,30 @@ I have always been interested in intellectual work, solving interesting problems
 <img align="right" alt="GIF" src="./assets/techStack.gif" width="360px"/>
   
 ### Contact me
-📧 Email: [homoretsky@gmail.com](mailto:homoretsky@gmail.com)
 💬 Telegram: [@bogdanho](https://t.me/bogdanho)
-<!-- <br>📑 LinkedIn: [Bogdan Homoretsky](https://www.linkedin.com/in/bogdanhomoretsky/) -->
+📧 Email: [homoretsky@gmail.com](mailto:homoretsky@gmail.com)
+📑 LinkedIn: [Bogdan Homoretsky](https://www.linkedin.com/in/bogdan-homoretsky/)
 
 
 ### More About Me:
 
 - 🔭 &nbsp; I’m currently open to remote work
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bogdan-ho?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/bogdanho)
-- 📝 &nbsp; Checkout my [CV](https://cv.hexlet.io/resumes/1380)
+- 📝 &nbsp; Checkout my [CV](https://hh.ru/resume/5e8a5ceeff0bcc77d60039ed1f307a7154466b)
+<!-- - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bogdan-ho?tab=repositories) -->
 
 <br>
 
 ### Languages and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="js" width="40" height="40"/>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="linux" width="40" height="40"/></a> 
@@ -37,8 +39,8 @@ I have always been interested in intellectual work, solving interesting problems
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="git" width="40" height="40"/></a>
 <br>
-
+<!-- 
 
 ### Github Stats
 ![Metrics](/github-metrics.svg)
-<br>
+<br> -->
